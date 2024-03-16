@@ -1,4 +1,7 @@
 # ❤️ Frontend
+
+## Linkedin post with DEMO video = [post link](https://www.linkedin.com/posts/parthpatelreal_introducing-my-first-major-mern-stack-activity-7172284301995094016-Q6cv?utm_source=share&utm_medium=member_desktop)
+
 ## 💚 how to run react and backend at the same time ?
 
 - `npm i concurrently` install in root folder
